@@ -17,6 +17,16 @@ const App = () => {
       img:'https://images.unsplash.com/photo-1541560052-5e137f229371?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjZ8fHByb2Zlc3Npb25hbHxlbnwwfHwwfHx8MA%3D%3D',
       intro:'',
       tag:'Underbanked'
+    },
+    {
+      img:'https://images.unsplash.com/photo-1773332598414-44a45e364d85?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw1Nnx8fGVufDB8fHx8fA%3D%3D',
+      intro:'',
+      tag:'Overlooked'
+    },
+    {
+      img:'https://plus.unsplash.com/premium_photo-1663029032261-df6f5e2404bb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDR8fHxlbnwwfHx8fHw%3D',
+      intro:'',
+      tag:'Undercapitalized'
     }
   ];
   return (
